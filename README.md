@@ -1,6 +1,6 @@
 # ALMIRBRAGGIO Github's Page
 
-This is my personal website on Github static pages!
+This is my simple personal website on Github static pages!
 
 ## Author
 
